@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "functionallibrary_demo", "functionallibrary_demo\Test.tsp", "ECA2A9E2-4263-42CD-A04D-197EEAFB65F3"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\QTP-Hybrid-Framework\QTP-Hybrid-Framework\TestCases\functionallibrary_demo\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		ECA2A9E2-4263-42CD-A04D-197EEAFB65F3.Debug|Any CPU.Build.0 = Debug|Any CPU
+		ECA2A9E2-4263-42CD-A04D-197EEAFB65F3.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		ECA2A9E2-4263-42CD-A04D-197EEAFB65F3.Release|Any CPU.Build.0 = Release|Any CPU
+		ECA2A9E2-4263-42CD-A04D-197EEAFB65F3.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+		appspeciic_login = C:\QTP-Hybrid-Framework\QTP-Hybrid-Framework\Resources\AppSpecificFL\functionlibraries\appspeciic_login.qfl
+	EndGlobalSection
+EndGlobal
