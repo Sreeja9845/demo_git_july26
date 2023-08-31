@@ -4,6 +4,7 @@
 '==========================================================================================================================
 Function fnOpenWebApp
 'this for launching chrome
+'Reviewed by Harika
 	SystemUtil.Run "C:\Program Files\Google\Chrome\Application\chrome.exe" , "http://demowebshop.tricentis.com/"
 End Function
 
